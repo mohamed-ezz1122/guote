@@ -1,0 +1,14 @@
+h1{
+    letter-spacing: -10px;
+    
+}
+button:hover{
+    background-color: green;
+}
+button{
+   background-color:  blue;
+    color: #eee;
+    transition: all 400ms;
+
+
+}
